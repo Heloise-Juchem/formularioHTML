@@ -1,5 +1,5 @@
 :root{
-    background-color: #001485;
+    background-color: #771e83b3;
     --text-color:#ffffff;
 
 }
@@ -14,4 +14,8 @@ body{
     height: 100vh;
     background-color: var(--background-color);
     color: var(--text-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
