@@ -32,7 +32,7 @@ align-items: center;
 
 main{
     display: flex;
-    flex-direction: column !important;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     border: 2px solid var(--text-color);
@@ -50,3 +50,4 @@ footer{
     align-items: center;
     width: 100%;
 }
+
